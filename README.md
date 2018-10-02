@@ -4,4 +4,4 @@ new world of programming
 
 Wow! This is so interesting platform 
 
-:happy
+#be happy #keep smilimg
