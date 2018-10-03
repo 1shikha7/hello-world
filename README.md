@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/hello-world-voilet.svg?style=for-the-badge)
+![](https://img.shields.io/badge/hello-world-red.svg?style=for-the-badge)
 # hello-world
 
 new world of programming
